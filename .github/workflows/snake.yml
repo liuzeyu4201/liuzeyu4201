@@ -3,24 +3,28 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"  # 每天运行一次
+  workflow_dispatch:   # 允许手动触发
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Generate Snake animation
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            github-contribution-grid-snake.svg
-      - name: Push generated snake
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push generated Snake
         run: |
-          git config --global user.email "2371912417@qq.com"
-          git config --global user.name "liuzeyu4201"
-          git add -A
+          mkdir -p output
+          mv dist/github-contribution-grid-snake.svg output/github-contribution-grid-snake.svg
+          git config --global user.email "your-email@example.com"
+          git config --global user.name "GitHub Actions"
+          git add output/github-contribution-grid-snake.svg
           git commit -m "Generated Snake Animation"
           git push
