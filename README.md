@@ -32,7 +32,7 @@ DJTU专业课资料整理[Courses4DJTU](https://drive.google.com/drive/folders/1
 
 | 💻 programming language | 🖥️ Web  | 🔬 Math computing | 🤖 AI | 🗄️ Database |
 |------------|------------|------------|------------|------------|
-| Python 🐍 | Django 🌍| MATLAB 🎛️ | PyTorch 🔥 | MySQL 🗃️ |
+| Python 🐍 | flask 🌍| vLLM 🎛️ | PyTorch 🔥 | transformers 🗃️ |
 
 
 ### 📊 GitHub 数据统计
