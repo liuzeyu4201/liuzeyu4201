@@ -30,7 +30,7 @@ DJTU专业课资料整理[Courses4DJTU](https://drive.google.com/drive/folders/1
 
 ## 🚀 Skills | techology stack
 
-| 💻 programming language | 🖥️ Web  | 🔬 Math computing | 🤖 AI | 🗄️ Database |
+| 💻 programming language | 🖥️ Web  | 🔬 Math computing | 🤖 AI | 🗄️ investment|
 |------------|------------|------------|------------|------------|
 | Python 🐍 | flask 🌍| vLLM 🎛️ | PyTorch 🔥 | transformers 🗃️ |
 
