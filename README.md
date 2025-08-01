@@ -8,7 +8,7 @@
 
 DJTU专业课资料整理[Courses4DJTU](https://drive.google.com/drive/folders/17jZvTivbU69LwW0rHW_D4SkM2ORRIvoZ?usp=drive_link) 
 
-数学系数学课书籍整理[Mathematics4share](https://drive.google.com/drive/folders/1ok02n8NaR4Y-WarckFuVWx_spFAMRHT7?usp=drive_link)
+数学系数学课书籍整理[Mathematics4share](https://drive.google.com/drive/folders/1y_B714PMTQX1F-FWCBAYfzCfC9CapmHc?usp=sharing)
 
 
 
