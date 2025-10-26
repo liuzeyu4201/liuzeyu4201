@@ -10,6 +10,7 @@ DJTU专业课资料整理[Courses4DJTU](https://drive.google.com/drive/folders/1
 
 数学系数学课书籍整理[Mathematics4share](https://drive.google.com/drive/folders/1y_B714PMTQX1F-FWCBAYfzCfC9CapmHc?usp=sharing)
 
+AI and CS 笔记[ComputerScience](https://drive.google.com/drive/folders/1t5ea6fqJ5QLpol2g04CnFQDY_ah54YFo?usp=drive_link)
 
 
 
