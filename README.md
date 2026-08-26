@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/nameplate.svg?v=white" alt="Liu Zeyu — AI Engineer at Surfin" width="100%">
+  <img src="./assets/namecard.png" alt="Liu Zeyu — AI Engineer at Surfin" width="100%">
 </p>
 
 <p align="center">
