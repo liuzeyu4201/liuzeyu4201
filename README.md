@@ -4,24 +4,16 @@
 -->
 
 <p align="center">
-  <img src="./assets/header.svg" alt="liu.zeyu — AI Engineer @ Surfin" width="100%">
+  <img src="./assets/banner.svg" alt="LIU ZEYU — AI Engineer @ Surfin" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://www.surfin.sg/page/home"><img src="https://img.shields.io/badge/org-Surfin-79c0ff?style=flat-square&labelColor=0b0f14" alt="Surfin"></a>
-  <a href="https://www.betterbuddy.ai"><img src="https://img.shields.io/badge/now-BetterBuddy-e3b341?style=flat-square&labelColor=0b0f14" alt="BetterBuddy"></a>
-  <img src="https://img.shields.io/badge/role-AI_Engineer-7ee787?style=flat-square&labelColor=0b0f14" alt="AI Engineer">
-  <img src="https://img.shields.io/badge/loc-Beijing-8b949e?style=flat-square&labelColor=0b0f14" alt="Beijing">
-  <a href="mailto:liuzeyu4201@gmail.com"><img src="https://img.shields.io/badge/mail-liuzeyu4201%40gmail.com-8b949e?style=flat-square&labelColor=0b0f14" alt="email"></a>
+  <a href="https://www.surfin.sg/page/home">Surfin</a>
+  ·
+  <a href="https://www.betterbuddy.ai">BetterBuddy</a>
+  ·
+  <a href="mailto:liuzeyu4201@gmail.com">mail</a>
 </p>
-
-```bash
-# ~/.profile
-export NAME="Liu Zeyu (Leon)"
-export ROLE="AI Engineer"
-export ORG="Surfin"
-export PRODUCT="BetterBuddy"
-```
 
 ## $ ls ~/src
 
