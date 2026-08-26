@@ -8,10 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.surfin.sg/page/home">Surfin</a>
-  ·
-  <a href="https://www.betterbuddy.ai">BetterBuddy</a>
-  ·
+  <strong>AI Engineer @ <a href="https://www.surfin.sg/page/home">Surfin</a></strong><br>
+  Building <a href="https://www.betterbuddy.ai/">BetterBuddy</a> — AI Staff for a Better Business
+</p>
+
+<p align="center">
   <a href="mailto:liuzeyu4201@gmail.com">mail</a>
 </p>
 
@@ -32,9 +33,9 @@ ops         Docker · Linux
 ## $ cat /proc/math
 
 ```text
-LOADED    数学分析  高等代数  实分析  泛函分析  点集拓扑  概率论
-STALLED   抽象代数  复分析    常微分  偏微分方程
-QUEUED    微分流形  黎曼几何  李群    表示论    交换代数  同调代数
+代数    高等代数  抽象代数  交换代数  同调代数  表示论
+分析    数学分析  实分析    复分析    泛函分析  常微分  偏微分方程  概率论
+几何    点集拓扑  微分流形  黎曼几何  李群
 ```
 
 ## $ telemetry
@@ -45,7 +46,6 @@ QUEUED    微分流形  黎曼几何  李群    表示论    交换代数  同�
 </p>
 
 ---
-
 
 <p align="center">
   <sub><code>exit 0</code> · still compiling.</sub>
