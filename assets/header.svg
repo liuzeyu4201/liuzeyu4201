@@ -38,22 +38,21 @@
     <tspan fill="#7ee787">$</tspan>
     <tspan dx="10" fill="#8b949e">cat /etc/role</tspan>
   </text>
-  <text x="36" y="186" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">
+  <text x="36" y="192" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">
     <tspan fill="#e6edf3">AI Engineer</tspan>
     <tspan fill="#8b949e">  @  </tspan>
     <tspan fill="#79c0ff">Surfin</tspan>
   </text>
-  <text x="36" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">
+  <text x="36" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">
     <tspan fill="#8b949e">shipping  </tspan>
     <tspan fill="#e3b341">BetterBuddy</tspan>
   </text>
-  <text x="36" y="244" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">enterprise AI staff that plan, tool-call, and deliver</text>
 
-  <text x="36" y="276" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">
+  <text x="36" y="270" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">
     <tspan fill="#7ee787">$</tspan>
     <tspan dx="10" fill="#e6edf3">exec ./betterbuddy</tspan>
   </text>
-  <rect x="236" y="262" width="8" height="16" fill="#7ee787"/>
+  <rect x="236" y="256" width="8" height="16" fill="#7ee787"/>
 
   <rect x="668" y="64" width="416" height="204" rx="10" fill="#111820" stroke="#3d444d"/>
   <text x="692" y="94" fill="#7ee787" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">// runtime.env</text>

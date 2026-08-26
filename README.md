@@ -1,10 +1,10 @@
 <!--
   liuzeyu4201
-  AI Engineer @ Surfin · shipping BetterBuddy
+  AI Engineer @ Surfin · BetterBuddy
 -->
 
 <p align="center">
-  <img src="./assets/header.svg" alt="liu.zeyu — AI Engineer @ Surfin, shipping BetterBuddy" width="100%">
+  <img src="./assets/header.svg" alt="liu.zeyu — AI Engineer @ Surfin" width="100%">
 </p>
 
 <p align="center">
@@ -21,33 +21,7 @@ export NAME="Liu Zeyu (Leon)"
 export ROLE="AI Engineer"
 export ORG="Surfin"
 export PRODUCT="BetterBuddy"
-export MISSION="AI staff that ships work"
 ```
-
-**AI Engineer @ [Surfin](https://www.surfin.sg/page/home)**（新加坡金融科技）。  
-正在做 **[BetterBuddy](https://www.betterbuddy.ai)**：把 AI 从对话框里拉出来，变成能上岗、能协作、能把活干完的同事。
-
-## $ current --job
-
-**ORG · [Surfin](https://www.surfin.sg/page/home)**  
-新加坡金融科技。用 AI 做信用评估与智能服务，把消费金融、支付汇款、财富管理送到新兴市场里那些传统银行覆盖不到的人。
-
-`fintech` `credit-ai` `agent-inclusion`
-
-**SHIP · [BetterBuddy](https://www.betterbuddy.ai)**  
-一站式企业级 AI 员工平台。像招人一样配置性格、岗位、模型，一键上岗；理解目标、规划步骤、调用工具，把结果以文件 / 代码 / 图像 / 视频交出来。
-
-`ai-staff` `multi-agent` `tools` `7×24`
-
-BetterBuddy 工作流：
-
-```text
-[1] 赋予性格  →  [2] 明确岗位  →  [3] 选择模型  →  [4] 发布上岗
-
-    30s to hire ·  7×24 standby ·  N workers in parallel
-```
-
-不只是聊天。目标是让 AI 员工真正执行：拆任务、调工具、交付产物。
 
 ## $ ls ~/src
 
@@ -87,8 +61,8 @@ QUEUED    微分流形  黎曼几何  李群    表示论    交换代数  同�
 ## $ telemetry
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=liuzeyu4201&show_icons=true&hide_border=true&bg_color=0b0f14&title_color=7ee787&icon_color=79c0ff&text_color=c9d1d9&ring_color=7ee787" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuzeyu4201&layout=compact&hide_border=true&bg_color=0b0f14&title_color=7ee787&text_color=c9d1d9" alt="Top languages">
+  <img height="170" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=liuzeyu4201&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0b0f14&amp;title_color=7ee787&amp;icon_color=79c0ff&amp;text_color=c9d1d9&amp;ring_color=7ee787" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=liuzeyu4201&amp;layout=compact&amp;hide_border=true&amp;bg_color=0b0f14&amp;title_color=7ee787&amp;text_color=c9d1d9" alt="Top languages">
 </p>
 
 ---
