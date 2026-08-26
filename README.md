@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/namecard.png" alt="Liu Zeyu — AI Engineer at Surfin" width="100%">
+  <img src="./assets/namecard-ink.png" alt="Liu Zeyu — AI Engineer at Surfin" width="100%">
 </p>
 
 <p align="center">
@@ -29,6 +29,6 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=liuzeyu4201&amp;show_icons=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=8a7349&amp;icon_color=8a7349&amp;text_color=1a1916&amp;ring_color=c4a36a" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=liuzeyu4201&amp;layout=compact&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=8a7349&amp;text_color=1a1916" alt="Top languages">
+  <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=liuzeyu4201&amp;show_icons=true&amp;hide_border=true&amp;bg_color=12100e&amp;title_color=c4a36a&amp;icon_color=c4a36a&amp;text_color=e8e4dc&amp;ring_color=c4a36a" alt="GitHub stats">
+  <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=liuzeyu4201&amp;layout=compact&amp;hide_border=true&amp;bg_color=12100e&amp;title_color=c4a36a&amp;text_color=e8e4dc" alt="Top languages">
 </p>

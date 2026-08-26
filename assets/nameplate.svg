@@ -1,12 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="260" viewBox="0 0 1120 260" role="img" aria-label="Liu Zeyu — AI Engineer at Surfin">
-  <rect width="1120" height="260" rx="8" fill="#ffffff"/>
-  <rect x="0.75" y="0.75" width="1118.5" height="258.5" rx="8" fill="none" stroke="#c4a36a" stroke-width="1.5"/>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1c1814"/>
+      <stop offset="100%" stop-color="#12100e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1120" height="260" rx="8" fill="url(#paper)"/>
+  <rect x="0.75" y="0.75" width="1118.5" height="258.5" rx="8" fill="none" stroke="#c4a36a" stroke-opacity="0.28" stroke-width="1.5"/>
 
   <circle cx="560" cy="58" r="3.5" fill="none" stroke="#c4a36a" stroke-width="1.2"/>
 
-  <text x="560" y="132" text-anchor="middle" fill="#1a1916" font-family="Palatino Linotype, Palatino, Iowan Old Style, Times New Roman, serif" font-size="48" letter-spacing="6">Liu Zeyu</text>
+  <text x="560" y="132" text-anchor="middle" fill="#f4efe6" font-family="Palatino Linotype, Palatino, Iowan Old Style, Times New Roman, serif" font-size="48" letter-spacing="6">Liu Zeyu</text>
 
   <line x1="508" y1="154" x2="612" y2="154" stroke="#c4a36a" stroke-width="1"/>
 
-  <text x="560" y="196" text-anchor="middle" fill="#8a7349" font-family="Palatino Linotype, Palatino, Iowan Old Style, Times New Roman, serif" font-size="16" letter-spacing="4">AI Engineer  ·  Surfin</text>
+  <text x="560" y="196" text-anchor="middle" fill="#c4a36a" font-family="Palatino Linotype, Palatino, Iowan Old Style, Times New Roman, serif" font-size="16" letter-spacing="4">AI Engineer  ·  Surfin</text>
 </svg>
