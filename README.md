@@ -1,6 +1,6 @@
 <!--
   liuzeyu4201
-  AI Engineer @ Surfin · BetterBuddy
+  AI Engineer @ Surfin 
 -->
 
 <p align="center">
@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  Building <a href="https://www.betterbuddy.ai/">BetterBuddy</a> — AI Staff for a Better Business<br>
   <a href="https://www.surfin.sg/page/home">surfin.sg</a>
   ·
   <a href="mailto:liuzeyu4201@gmail.com">liuzeyu4201@gmail.com</a>
